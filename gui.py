@@ -32,13 +32,13 @@ radio1.pack(anchor=W)
 radio2.pack(anchor=W)
 radio3.pack(anchor=W)
 
+chkButton1.place(height=50, width=100, x=400, y=600)
+chkButton2.place(height=50, width=100, x=400, y=650)
+chkButton3.place(height=50, width=100, x=400, y=700)
 listbox.pack(padx=10, pady=10)
 message.pack(padx=10, pady=10)  # Add padding for better layout
 scaleDescriber.pack()
 scale.pack(padx=10, pady=20)  # Add padding for better layout
-chkButton1.pack()
-chkButton2.pack()
-chkButton3.pack()
 button1.pack()
 text.pack()
 text_box.pack(padx=10, pady=10)
