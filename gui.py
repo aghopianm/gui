@@ -3,7 +3,7 @@ window = Tk()
 window.title("This is my GUI project")
 window.geometry("1000x1000")
 
-text = Label(window, text="Hello World")
+text = Label(window, text="Hello World", fg='SteelBlue', bg='LightGray')
 scaleDescriber = Label(window, text="Scale to show how cool you are")
 button1 = Button(window, text='Press Me!')
 chkButton1 = Checkbutton(window, text='One')
