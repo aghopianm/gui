@@ -16,7 +16,6 @@ class RegistrationForm:
         ttk.Label(main_frame, text="Name:").grid(row=0, column=0, sticky=tk.W, pady=5)
         self.name_entry = ttk.Entry(main_frame, width=40)
         self.name_entry.grid(row=0, column=1, sticky=tk.W, pady=5)
-        self.name_entry.insert(0, "Skibidi Sigma")
         
         # Profession section
         ttk.Label(main_frame, text="Profession:").grid(row=1, column=0, sticky=tk.W, pady=5)
