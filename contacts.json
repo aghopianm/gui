@@ -1,2 +1,1 @@
-[{"name": "Donald Trump", "phone": "1800-1800-1800", "email": "donaldjtrump@gmail.com"},
-{"name": "Hillary Clinton", "phone": "1800-1800-1900", "email": "hillaryclinton@gmail.com"}]
+[{"name": "Donald Trump", "phone": "1800-1800-1800", "email": "donaldjtrump@gmail.com", "city": "New York"}, {"name": "Hillary Clinton", "phone": "1800-1800-1900", "email": "hillaryclinton@gmail.com", "city": "Los Angeles"}, {"name": "50 Cent", "phone": "1800-50-50", "email": "50cent@gmail.com", "city": "New York"}]
